@@ -47,7 +47,7 @@ public class FoodOrderingSystem {
                 1 - ice cubes with a lemon
                 2 - ice cubes
                 3 - lemon
-                other - no, thank you""");
+                4 - no, thank you""");
 
         final Drink drink = new Drink();
 
